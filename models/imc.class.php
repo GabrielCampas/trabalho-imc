@@ -54,7 +54,12 @@
         }
 
         public function Recomendacao(){
-            return ($this->imc >= 25) ? "Sim, precisa fazer regime." : "Não, não precisa fazer regime.";
+            #return ($this->imc >= 25) ? "Sim, precisa fazer regime." : "Não, não precisa fazer regime.";
+            if($this->imc >= 25){
+                return "Sim, precisa fazer regime.";
+            } else {
+                return "Não, não precisa fazer regime.";
+            }
         }
     }
 ?>
