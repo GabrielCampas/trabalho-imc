@@ -48,11 +48,11 @@
     <form class="col-6" action="../index.php" method="post">
         <div class="mb-3 mt-3">
             <label for="peso" class="form-label">Peso:</label>
-            <input type="text" class="form-control" id="peso" name="peso" placeholder="Entre com o peso.">
+            <input type="text" class="form-control" id="peso" name="peso" placeholder="Entre com o peso. Ex: 50.">
         </div>
         <div class="mb-3">
             <label for="altura" class="form-label">Altura:</label>
-            <input type="text" class="form-control" id="altura" name="altura" placeholder="Entre com a altura.">
+            <input type="text" class="form-control" id="altura" name="altura" placeholder="Entre com a altura. Ex: 1.80.">
         </div>
             <button type="submit" id="calcular" class="btn btn-primary">Calcular IMC</button>
             <button type="reset" id="limpar" class="btn btn-danger">Limpar</button>

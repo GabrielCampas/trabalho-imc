@@ -69,8 +69,7 @@
         <p class="text-center"><strong>Gabriel Campanhã</strong></p>
         <p class="text-center"><strong>João Guilherme Dias Pascolat</strong></p>
         <br>
-        <p class="text-center">Professor: Alex Paulo Lopes Batista<br>
-           Disciplina: Desenvolvimento Web II (DW2).
+        <p class="text-center">Professor: Alex Paulo Lopes Batista <br> Disciplina: Desenvolvimento Web II (DW2).
         </p>
     </main>
     <footer class="footer text-center">
